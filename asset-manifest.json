@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/github-page/static/js/main.fb7e363b.chunk.js",
-    "main.js.map": "/github-page/static/js/main.fb7e363b.chunk.js.map",
-    "runtime-main.js": "/github-page/static/js/runtime-main.46172b42.js",
-    "runtime-main.js.map": "/github-page/static/js/runtime-main.46172b42.js.map",
-    "static/js/2.b931b674.chunk.js": "/github-page/static/js/2.b931b674.chunk.js",
-    "static/js/2.b931b674.chunk.js.map": "/github-page/static/js/2.b931b674.chunk.js.map",
-    "index.html": "/github-page/index.html",
-    "static/js/2.b931b674.chunk.js.LICENSE.txt": "/github-page/static/js/2.b931b674.chunk.js.LICENSE.txt"
+    "main.js": "/ProjectGitApp/static/js/main.fb7e363b.chunk.js",
+    "main.js.map": "/ProjectGitApp/static/js/main.fb7e363b.chunk.js.map",
+    "runtime-main.js": "/ProjectGitApp/static/js/runtime-main.237b1f1e.js",
+    "runtime-main.js.map": "/ProjectGitApp/static/js/runtime-main.237b1f1e.js.map",
+    "static/js/2.74a4b50f.chunk.js": "/ProjectGitApp/static/js/2.74a4b50f.chunk.js",
+    "static/js/2.74a4b50f.chunk.js.map": "/ProjectGitApp/static/js/2.74a4b50f.chunk.js.map",
+    "index.html": "/ProjectGitApp/index.html",
+    "static/js/2.74a4b50f.chunk.js.LICENSE.txt": "/ProjectGitApp/static/js/2.74a4b50f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.46172b42.js",
-    "static/js/2.b931b674.chunk.js",
+    "static/js/runtime-main.237b1f1e.js",
+    "static/js/2.74a4b50f.chunk.js",
     "static/js/main.fb7e363b.chunk.js"
   ]
 }
